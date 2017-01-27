@@ -1,6 +1,6 @@
 import java.util.*;
 public class duplicate{
-public Static void main(String args[]){
+public static void main(String args[]){
 Iterator itr=dup.getKey().Iterator()
 public int repeated;
 while(itr.hasNext())
@@ -39,7 +39,7 @@ return key;
 }
 public boolean equals(Object o)
 {
-if(!(o instance of names))
+if(!(o instanceof names))
 return false;
 else
 return this.key==(names)o.key;
