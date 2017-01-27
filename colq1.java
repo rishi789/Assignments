@@ -39,7 +39,7 @@ return key;
 }
 public boolean equals(Object o)
 {
-if(!(o instance of names))
+if(!(o instanceof names))
 return false;
 else
 return this.key==(names)o.key;
