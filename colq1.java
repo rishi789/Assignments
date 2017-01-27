@@ -1,6 +1,6 @@
 import java.util.*;
 public class duplicate{
-public Static void main(String args[]){
+public static void main(String args[]){
 Iterator itr=dup.getKey().Iterator()
 public int repeated;
 while(itr.hasNext())
