@@ -29,7 +29,7 @@ public class names
 {
 public int key;
 public string name;
-names(ïnt key,string name)
+names(int key,string name)
 {
 this.key=key;
 this.name=name;
